@@ -13,8 +13,8 @@ This project was inspired by and created following the tutorial at [Hacker Card 
 ## Previews  
 ### Front and Back Side-by-Side  
 <div align="left">
-  <img src="front-preview.png" alt="Front View" height="150"/>
-  <img src="back-preview.png" alt="Back View" height="150"/>
+  <img src="front-preview.png" alt="Front View" height="120"/>
+  <img src="back-preview.png" alt="Back View" height="120"/>
 </div>
 
 ## Animation  
